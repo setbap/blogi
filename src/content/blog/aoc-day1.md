@@ -9,7 +9,6 @@ rtl: true
 tags:
   - Programming
   - Rust
-  - Day1
   - AOC2023
 description: تشریح سوال بخش اول روز اول ای او سی و حل اون
 ---
